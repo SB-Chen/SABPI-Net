@@ -1,0 +1,2 @@
+from util.trainUtil.cfg_classification import get_parser as get_parser_for_classification
+from util.trainUtil.training_util import TrainUtil as classification_trainUtil
